@@ -1,3 +1,7 @@
+//
+// Run this file using NodeJS as follows:
+// node.exe get_readme_file.js
+//
 const request = require('request');
 
 // Send GET request to Github API with the following url: 

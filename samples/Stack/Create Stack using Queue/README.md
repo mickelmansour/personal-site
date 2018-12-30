@@ -1,0 +1,1 @@
+Implement the Stack data structure using a Queue object. This sample shows you how to implement the push, pop, and peek functions of the Stack.
